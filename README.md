@@ -1,1 +1,1 @@
-<h1>Experimental electronic musical instruments</h1>
+<h1>Journal</h1>
